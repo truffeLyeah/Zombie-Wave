@@ -1,4 +1,6 @@
-Hi! This is my final project for my educational institution. A Zombie Wave game made in Python. I've been developing it for 2 weeks! I think if anyone is interested, I left the source code here.
+Hi! This is my final project for 2024 year in my programming school. A Zombie Wave game, made with Python and Pygame. I've been developing it for 2 weeks! If anyone is interested, I left the source code here.
+
+UPD: this code so sucks and there's a few russian comments so sry 🥲 I'M TOO LAZY TO REWRITE IT and the game itself sucks so I abandoned it
 
 Installation instruction:
 1. Download main.exe and assets.zip.
@@ -7,4 +9,4 @@ Installation instruction:
 4. Launch main.exe.
 
 DON'T TOUCH THE PROGRESS.TXT FILE! 
-If you will get an error while playing game or you will shutdown your computer while playing you will ned to delete your progress.txt file. 
+If you will get an error while playing game or you will shutdown your computer while playing you will need to delete your progress.txt file.
